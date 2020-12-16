@@ -1,5 +1,8 @@
 # Testing
-hackerman time
-saludos a la república
-saludos mundowww
-Hola 
+Este es mi primer proyecto
+
+Lo usare para aprender Git, Python y Código en gral. 
+
+No me juzguen soy nuevo. 
+
+Saludos, 
